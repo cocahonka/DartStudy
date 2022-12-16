@@ -1,0 +1,4 @@
+name: study
+
+environment:
+  sdk: ">=2.18.4 <3.0.0"
